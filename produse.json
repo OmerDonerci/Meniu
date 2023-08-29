@@ -1,0 +1,720 @@
+
+  [
+    {
+      "categorieProdus": "MENIURI",
+      "numeProdus": "DONER MENIU PUI",
+      "descriereProdus": "DONER PUI + CARTOFI PRAJITI + SUC",
+      "pretProdus": 32,
+      "nutritieProdus": "",
+      "alergeniProdus": "",
+      "calePoza":""
+     },
+     {
+      "categorieProdus": "MENIURI",
+      "numeProdus": "DONER MENIU VITA",
+      "descriereProdus": "DONER VITA + CARTOFI PRAJITI + SUC",
+      "pretProdus": 33,
+      "nutritieProdus": "",
+      "alergeniProdus": "",
+      "calePoza":""
+     },
+     {
+      "categorieProdus": "MENIURI",
+      "numeProdus": "DONER MENIU MIXT",
+      "pretProdus": 33,
+      "nutritieProdus": "",
+      "alergeniProdus": "",
+      "descriereProdus": "",
+      "calePoza":""
+     },
+
+
+
+     {
+      "categorieProdus": "CIORBE",
+      "numeProdus": "CIORBA DE LINTE",
+      "descriereProdus": "LINTE ROSIE , ARDEI IUTE , LAMAIE, PAINE",
+      "pretProdus": 17,
+      "nutritieProdus": "",
+      "alergeniProdus": "",
+      "calePoza":"POZE/Poze meniu/image13.jpeg"
+     },
+
+
+  {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER VITA",
+    "descriereProdus": "CARNE DE VITA\/OAIE , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA",
+    "pretProdus": 22,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":"POZE/Poze meniu/image6.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER PUI",
+    "descriereProdus": "CARNE DE PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat), KETCHUP , MAIONEZA",
+    "pretProdus": 18,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":"POZE/Poze meniu/image7.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM VITA",
+    "descriereProdus": "CARNE DE VITA\/OAIE , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA",
+    "pretProdus": 25,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":"POZE/Poze meniu/image9.jpeg"
+   },
+  
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "ISKENDER",
+    "descriereProdus": "CARNE DE VITA SI OAIE , SOS ROSU , PAINE , IAURT GRECESC",
+    "pretProdus": 50,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":"POZE/Poze meniu/image15.jpeg"
+   },
+
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "ARIPIOARE LA GRATAR",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "ARIPIOARE PUI",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM PUI",
+    "descriereProdus": "CARNE DE PUI , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat), KETCHUP , MAIONEZA",
+    "pretProdus": 22,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":"POZE/Poze meniu/image10.png"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FARFURIE VITA",
+    "descriereProdus": "CARNE DE VITA\/OAIE , LIPIE , ROSII , CASTRAVETI PROASPETI , CASTRAVETI MURATI , VARZA , CEAPA , CARTOFI PRAJITI (produs congelat) , KETCHUP , MAIONEZA",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FARFURIE PUI",
+    "descriereProdus": "",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "ADANA KEBAB",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image16.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "BEYTI KEBAB",
+    "pretProdus": 45,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image8.png"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FRIGARUIE VITA",
+    "pretProdus": 45,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image1.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FRIGARUIE PUI",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image4.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "LOKUM VITA",
+    "pretProdus": 75,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image2.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "CIGER SIS FICAT VITA",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "KANAT GRATAR",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image3.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM MIXT",
+    "pretProdus": 25,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM MIXT DUBLU",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FARFURIE MIXTA",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "MUSCHIULET VITA",
+    "pretProdus": 75,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "FARFURIE DUBLU VITA",
+    "pretProdus": 55,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER VITA DUBLU",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER MIXT",
+    "pretProdus": 22,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM DUBLU VITA",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM DUBLU DE PUI",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "EZME",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER PUI DUBLU",
+    "pretProdus": 28,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "LAHMACUN",
+    "pretProdus": 15,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image5.jpeg"
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "PATLICAN KEBAB",
+    "pretProdus": 40,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "KOFTE",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "COASTE BERBECUT",
+    "pretProdus": 75,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "COTLET VITEL",
+    "pretProdus": 85,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM CU OREZ",
+    "pretProdus": 30,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "MIX GRATAR",
+    "pretProdus": 60,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER CU OREZ PUI",
+    "pretProdus": 20,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DONER CU OREZ DE VITA",
+    "pretProdus": 24,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   
+   {
+    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
+    "numeProdus": "DURUM OREZ SALATA",
+    "pretProdus": 25,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   
+   
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "PILAF",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "CARTOFI PRAJITI",
+    "pretProdus": 9,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":"POZE/Poze meniu/image11.jpeg"
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "SOS",
+    "pretProdus": 2,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "SALATA",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "SALATA ROSII",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "SALATA DUBLA",
+    "pretProdus": 16,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "PAINE",
+    "pretProdus": 2,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "HAIDARI",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "DESERT",
+    "numeProdus": "BACLAVALE",
+    "pretProdus": 15,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "DESERT",
+    "numeProdus": "KUNEFE",
+    "pretProdus": 12,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "DESERT",
+    "numeProdus": "CATAIF",
+    "pretProdus": 15,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "DESERT",
+    "numeProdus": "BACLAVALE KG",
+    "pretProdus": 90,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "EXTRA",
+    "numeProdus": "KARISIK PIDE",
+    "pretProdus": 35,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "EXTRA",
+    "numeProdus": "KASARLI PIDE",
+    "pretProdus": 30,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "EXTRA",
+    "numeProdus": "PLATOU PLASTIC",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "EXTRA",
+    "numeProdus": "VEGETARIAN",
+    "pretProdus": 20,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "EXTRA",
+    "numeProdus": "BURGUR",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "LIPTON",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "APA PLATA",
+    "gramajProdus": "500 ML",
+    "pretProdus": 5,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "APA MINERALA",
+    "gramajProdus": "500 ML",
+    "pretProdus": 5,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "AYRAN",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "CEAI",
+    "pretProdus": 5,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "TURKIS CAFEA",
+    "pretProdus": 5,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "APA MINERALA ULUDAG",
+    "pretProdus": 6,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "CAFEA",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "LATTE",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "PEPSI",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "7UP",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "MIRINDA",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "PRIGAT",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "ENERGIZANT",
+    "pretProdus": 4,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "LIMONADA ULUDAG",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "CAPUCINO",
+    "pretProdus": 10,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "LIPTON",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   },
+   {
+    "categorieProdus": "BĂUTURI",
+    "numeProdus": "ULUDAG SUC",
+    "gramajProdus": "250 ML",
+    "pretProdus": 7,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus":"",
+    "calePoza":""
+   }
+  ]
+  
