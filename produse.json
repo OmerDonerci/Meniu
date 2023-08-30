@@ -7,7 +7,7 @@
       "pretProdus": 32,
       "nutritieProdus": "",
       "alergeniProdus": "",
-      "calePoza":""
+      "calePoza":"image17.png"
      },
      {
       "categorieProdus": "MENIURI",
@@ -16,7 +16,7 @@
       "pretProdus": 33,
       "nutritieProdus": "",
       "alergeniProdus": "",
-      "calePoza":""
+      "calePoza":"image18.png"
      },
      {
       "categorieProdus": "MENIURI",
@@ -27,9 +27,6 @@
       "descriereProdus": "",
       "calePoza":""
      },
-
-
-
      {
       "categorieProdus": "CIORBE",
       "numeProdus": "CIORBA DE LINTE",
@@ -37,7 +34,7 @@
       "pretProdus": 17,
       "nutritieProdus": "",
       "alergeniProdus": "",
-      "calePoza":"POZE/Poze meniu/image13.jpeg"
+      "calePoza":"image13.jpeg"
      },
 
 
@@ -48,7 +45,7 @@
     "pretProdus": 22,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":"POZE/Poze meniu/image6.jpeg"
+    "calePoza":"image6.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -57,7 +54,7 @@
     "pretProdus": 18,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":"POZE/Poze meniu/image7.jpeg"
+    "calePoza":"image7.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -66,7 +63,7 @@
     "pretProdus": 25,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":"POZE/Poze meniu/image9.jpeg"
+    "calePoza":"image9.jpeg"
    },
   
    
@@ -77,7 +74,7 @@
     "pretProdus": 50,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":"POZE/Poze meniu/image15.jpeg"
+    "calePoza":"image15.jpeg"
    },
 
    {
@@ -105,7 +102,7 @@
     "pretProdus": 22,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":"POZE/Poze meniu/image10.png"
+    "calePoza":"image10.png"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -132,7 +129,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image16.jpeg"
+    "calePoza":"image16.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -141,7 +138,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image8.png"
+    "calePoza":"image8.png"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -150,7 +147,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image1.jpeg"
+    "calePoza":"image1.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -159,7 +156,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image4.jpeg"
+    "calePoza":"image4.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -168,7 +165,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image2.jpeg"
+    "calePoza":"image2.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -186,7 +183,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image3.jpeg"
+    "calePoza":"image3.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -300,7 +297,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image5.jpeg"
+    "calePoza":"image5.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -407,7 +404,7 @@
     "nutritieProdus": "",
     "alergeniProdus": "",
     "descriereProdus": "",
-    "calePoza":"POZE/Poze meniu/image11.jpeg"
+    "calePoza":"image11.jpeg"
    },
    {
     "categorieProdus": "GARNITURI",
