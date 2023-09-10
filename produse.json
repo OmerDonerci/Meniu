@@ -111,7 +111,7 @@
     "pretProdus": 35,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":""
+    "calePoza":"image12.jpeg"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -120,7 +120,7 @@
     "pretProdus": 35,
     "nutritieProdus": "",
     "alergeniProdus": "",
-    "calePoza":""
+    "calePoza":"image14.png"
    },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
@@ -461,6 +461,15 @@
     "calePoza":""
    },
    {
+    "categorieProdus": "GARNITURI",
+    "numeProdus": "BURGUR",
+    "pretProdus": 12,
+    "nutritieProdus": "",
+    "alergeniProdus": "",
+    "descriereProdus": "",
+    "calePoza":""
+   },
+   {
     "categorieProdus": "DESERT",
     "numeProdus": "BACLAVALE",
     "pretProdus": 15,
@@ -532,15 +541,7 @@
     "descriereProdus": "",
     "calePoza":""
    },
-   {
-    "categorieProdus": "EXTRA",
-    "numeProdus": "BURGUR",
-    "pretProdus": 7,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
+ 
 
    {
     "categorieProdus": "BĂUTURI",
