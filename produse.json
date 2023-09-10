@@ -76,25 +76,6 @@
     "alergeniProdus": "",
     "calePoza":"image15.jpeg"
    },
-
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "ARIPIOARE LA GRATAR",
-    "pretProdus": 40,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "ARIPIOARE PUI",
-    "pretProdus": 40,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
     "numeProdus": "DURUM PUI",
@@ -338,15 +319,7 @@
     "calePoza":""
    },
    
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "DURUM CU OREZ",
-    "pretProdus": 30,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
+
    {
     "categorieProdus": "PREPARATE PE BAZA DE CARNE",
     "numeProdus": "MIX GRATAR",
@@ -356,38 +329,7 @@
     "descriereProdus": "",
     "calePoza":""
    },
-   
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "DONER CU OREZ PUI",
-    "pretProdus": 20,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "DONER CU OREZ DE VITA",
-    "pretProdus": 24,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
-   
-   
-   {
-    "categorieProdus": "PREPARATE PE BAZA DE CARNE",
-    "numeProdus": "DURUM OREZ SALATA",
-    "pretProdus": 25,
-    "nutritieProdus": "",
-    "alergeniProdus": "",
-    "descriereProdus": "",
-    "calePoza":""
-   },
-   
-   
+
    {
     "categorieProdus": "GARNITURI",
     "numeProdus": "PILAF",
